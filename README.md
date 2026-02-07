@@ -30,7 +30,7 @@ Dynamic display of:
 * Responsive cursor interactions for buttons
 
 Project Structure:-
-.
+
 ├── index.html
 
 ├── quiz.css
